@@ -1,6 +1,7 @@
 x2 X70-Team git
-<<<<<<< HEAD
+
+Hi this is Amber
+
 Added a new line to story. Zander
-=======
-Amber Hung / yhung32@wisc.edu
->>>>>>> 1de35e849f0999ec58bb98409689ab47bb4b65a1
+
+
